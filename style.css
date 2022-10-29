@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+.wrapper {
+    margin: 0 auto;
+    display: flex;
+    width: 1200px;
+}
+.leftside {
+    width: 400px;
+}
+.rightside {
+    width: 800px;
+    background-color: blue;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+.description_wrapper {
+    padding: 40px 0 0 40px;
+    background-color: #dadada;
+    padding-bottom: 40px;
+}
+.contacts p {
+    margin-top: 0;
+}
+.skills ul {
+    padding-left: 15px;
+}
+.contacts span {
+    font-weight: bold;
+}
+.name {
+    background-color: #4c4c4c93;
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: right;
+    height: 50px;
+}
+.name h {
+    margin: 0;
+}
